@@ -1,1 +1,1 @@
-Utility modules for the AI-Assisted Data Wrangler & Visualizer app.
+"""Utility modules for the AI-Assisted Data Wrangler & Visualizer app."""
